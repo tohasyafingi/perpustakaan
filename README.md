@@ -94,9 +94,9 @@ Sistem Informasi Perpustakaan adalah aplikasi web yang dibangun menggunakan fram
 
 Jika kamu merasa aplikasi ini bermanfaat, kamu bisa memberi dukungan melalui Saweria:
 
-[![Saweria](https://img.shields.io/badge/Donasi%20di-Saweria-orange?logo=buymeacoffee&style=flat-square)](https://saweria.co/tohasyafingi)
+[![Saweria](https://img.shields.io/badge/Donasi%20di-Saweria-orange?logo=buymeacoffee&style=flat-square)](https://saweria.co/ngopilurrr)
 
-📌 Link: [https://saweria.co/tohasyafingi](https://saweria.co/tohasyafingi)
+📌 Link: [https://saweria.co/tohasyafingi](https://saweria.co/ngopilurrr)
 
 ---
 
