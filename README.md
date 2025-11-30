@@ -96,7 +96,7 @@ Jika kamu merasa aplikasi ini bermanfaat, kamu bisa memberi dukungan melalui Saw
 
 [![Saweria](https://img.shields.io/badge/Donasi%20di-Saweria-orange?logo=buymeacoffee&style=flat-square)](https://saweria.co/ngopilurrr)
 
-📌 Link: [https://saweria.co/tohasyafingi](https://saweria.co/ngopilurrr)
+📌 Link: [https://saweria.co/ngopilurrr](https://saweria.co/ngopilurrr)
 
 ---
 
